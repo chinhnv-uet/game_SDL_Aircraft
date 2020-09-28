@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1590848736 source:c:\users\admin\documents\code blocks\gamesdl\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<SDL_ttf.h>
+	"common.h"
+	"Ltexture.h"
+	"Object.h"
+	"bulletObject.h"
+	"mainObject.h"
+	"enemyObject.h"
+	"explosion.h"
+	"Menu.h"
+	<SDL_mixer.h>
+
+1561870368 c:\users\admin\downloads\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\admin\downloads\lazy foo (sdl)\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1590602732 c:\users\admin\documents\code blocks\gamesdl\comon.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1590838763 c:\users\admin\documents\code blocks\gamesdl\ltexture.h
+	"common.h"
+
+1590605115 source:c:\users\admin\documents\code blocks\gamesdl\ltexture.cpp
+	"common.h"
+	"Ltexture.h"
+
+1590835189 c:\users\admin\documents\code blocks\gamesdl\common.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1590635782 c:\users\admin\documents\code blocks\gamesdl\object.h
+	"common.h"
+	"Ltexture.h"
+
+1590711433 c:\users\admin\documents\code blocks\gamesdl\bulletobject.h
+	"common.h"
+	"Object.h"
+
+1590814995 c:\users\admin\documents\code blocks\gamesdl\mainobject.h
+	"common.h"
+	"bulletObject.h"
+	"Object.h"
+	<SDL_mixer.h>
+
+1590847459 c:\users\admin\documents\code blocks\gamesdl\enemyobject.h
+	"common.h"
+	"bulletObject.h"
+	"Object.h"
+
+1590838713 c:\users\admin\documents\code blocks\gamesdl\explosion.h
+	"common.h"
+	"Ltexture.h"
+
+1590834170 source:c:\users\admin\documents\code blocks\gamesdl\object.cpp
+	"Object.h"
+
+1590711448 source:c:\users\admin\documents\code blocks\gamesdl\bulletobject.cpp
+	"bulletObject.h"
+
+1590814995 source:c:\users\admin\documents\code blocks\gamesdl\mainobject.cpp
+	"mainObject.h"
+
+1590711901 source:c:\users\admin\documents\code blocks\gamesdl\enemyobject.cpp
+	"enemyObject.h"
+
+1590848303 source:c:\users\admin\documents\code blocks\gamesdl\explosion.cpp
+	"explosion.h"
+
+1590848736 c:\users\admin\documents\code blocks\gamesdl\menu.h
+	"common.h"
+	"Ltexture.h"
+
+1590771112 source:c:\users\admin\documents\code blocks\gamesdl\menu.cpp
+
+1540997992 c:\users\admin\downloads\lazy foo (sdl)\sdl2_mixer-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
